@@ -1,0 +1,1 @@
+This project focuses on image classification using the **CIFAR-10** database. The goal is to develop two deep learning models (MLP and CNN) to predict images classes in the database. In addition, we'll apply the Transfer Learning technique with the **VGG16** model which is pre-traind computer vision model on ImageNet dataset to improve model performance.
